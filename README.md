@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayur-Sonawane12
+- 👋 Hi, I’m Mayur-Sonawane
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C Programing
 
